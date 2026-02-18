@@ -50,4 +50,9 @@ Defects identified and documented with proper severity and description.
 
 ##  Project Structure
 
+manual-testing-project-2/
+   ├── test-scenarios.md
+   ├── test-cases.md
+   └── bug-report.md
+
 
